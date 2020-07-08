@@ -1,2 +1,1 @@
-# 我是klkklk
-> [点我开始](https://www.baidu.com)
+theklkklk.github.io/千万别点.vbs
