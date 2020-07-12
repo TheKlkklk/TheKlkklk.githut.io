@@ -4,3 +4,4 @@
 > [点我游玩](http://h.4399.com/play/194955.htm)
 # 好玩！
 > [切水果](http://www.yyyweb.com/demo/fruit-ninja/index.html)
+# 帮助者：256472！
