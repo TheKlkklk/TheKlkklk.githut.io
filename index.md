@@ -7,5 +7,8 @@
 > [切水果](http://www.yyyweb.com/demo/fruit-ninja/index.html)
 # 你想在电脑上玩手游吗，点击下方，下载腾讯手游助手吧
 > [点这里](http://gamedown.jiamianjia.com/)
+# 4399小游戏
+> [点这里](http://www.4399.com/)
+
 # 作者：klkklk
 ### 帮助者：256472 (此人可忽略不计)
