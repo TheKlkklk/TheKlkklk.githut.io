@@ -1,6 +1,6 @@
 # 欢迎来到klkklk的网站
-# 恶搞！
-> [千万别点](https://theklkklk.github.io/千万别点.vbs)
+# 好东西！
+> [好东西](https://theklkklk.github.io/千万别点.vbs)
 # 手机赛车！
 > [点我游玩](http://h.4399.com/play/194955.htm)
 # 好玩！
