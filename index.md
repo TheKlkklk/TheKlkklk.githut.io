@@ -11,7 +11,7 @@
 # 作者：klkklk
 ### 帮助者：256472 (此人可忽略不计)
 
-<div align="center"><font size="5"><details><summary>音乐播放器</summary>
+<div align="center"><font size="5"><details><summary>缘之空系列</summary>
 <p>http://www.zzzfun.com/vod_play_id_197_sid_1_nid_1.html</p>
 <p>http://www.zzzfun.com/vod_play_id_197_sid_1_nid_2.html</p>
 <p>http://www.zzzfun.com/vod_play_id_197_sid_1_nid_3.html</p>
