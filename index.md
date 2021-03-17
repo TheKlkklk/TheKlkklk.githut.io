@@ -14,8 +14,8 @@
 <html>
 <body>
 <details>
-<summary>Copyright 2011.</summary>
-<p>All pages and graphics on this web site are the property of W3School.</p>
+<summary>缘之空系列   </summary>
+<p></p>
 </details>
 </body>
 </html>
