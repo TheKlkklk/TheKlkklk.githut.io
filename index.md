@@ -10,3 +10,13 @@
 
 # 作者：klkklk
 ### 帮助者：256472 (此人可忽略不计)
+<!DOCTYPE HTML>
+<html>
+<body>
+<details>
+<summary>Copyright 2011.</summary>
+<p>All pages and graphics on this web site are the property of W3School.</p>
+</details>
+</body>
+</html>
+
