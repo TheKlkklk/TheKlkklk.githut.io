@@ -11,8 +11,8 @@
 # 作者：klkklk
 ### 帮助者：256472 (此人可忽略不计)
 
-<div align="center"><font size="5"><details><summary>缘之空系列</summary>
-> .[第一集].(http://www.zzzfun.com/vod_play_id_197_sid_1_nid_1.html)
+# <div align="center"><font size="5"><details><summary>缘之空系列</summary>
+> [第一集](http://www.zzzfun.com/vod_play_id_197_sid_1_nid_1.html)
 http://www.zzzfun.com/vod_play_id_197_sid_1_nid_2.html
 http://www.zzzfun.com/vod_play_id_197_sid_1_nid_3.html
 http://www.zzzfun.com/vod_play_id_197_sid_1_nid_4.html
