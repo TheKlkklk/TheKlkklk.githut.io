@@ -11,9 +11,9 @@
 # 作者：klkklk
 ### 帮助者：256472 (此人可忽略不计)
 
-<details>
+
 <summary>缘之空系列</summary>
-  
+<p></p>
 > [第一集](http://www.zzzfun.com/vod_play_id_197_sid_1_nid_1.html)
 
 > [第二集](http://www.zzzfun.com/vod_play_id_197_sid_1_nid_2.html)
@@ -37,4 +37,4 @@
 > [第十一集](http://www.zzzfun.com/vod_play_id_197_sid_1_nid_11.html)
 
 > [第十二集](http://www.zzzfun.com/vod_play_id_197_sid_1_nid_12.html)
-
+</font></div>
