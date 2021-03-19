@@ -11,7 +11,7 @@
 # 作者：klkklk
 ### 帮助者：256472 (此人可忽略不计)
 
-
+<details>
 <summary>缘之空系列</summary>
 <p></p>
 
