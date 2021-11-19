@@ -13,20 +13,5 @@
 
 # 生日快乐！2021.11.18
 
-<div align="center"><font size="5"><details><summary>缘之空</summary>
-<p></p>
-  
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="298" height="52" src="//music.163.com/outchain/player?type=2&amp;id=1645064&amp;auto=0&amp;height=32"></iframe>
-  
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="298" height="52" src="//music.163.com/outchain/player?type=2&amp;id=27901832&amp;auto=0&amp;height=32"></iframe>
-  
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="298" height="52" src="//music.163.com/outchain/player?type=2&amp;id=26565006&amp;auto=0&amp;height=32"></iframe>
-  
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="298" height="52" src="//music.163.com/outchain/player?type=2&amp;id=28535071&amp;auto=0&amp;height=32"></iframe>
-  
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="298" height="52" src="//music.163.com/outchain/player?type=2&amp;id=33255251&amp;auto=0&amp;height=32"></iframe>
-  
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="298" height="52" src="//music.163.com/outchain/player?type=2&amp;id=1332662636&amp;auto=0&amp;height=32"></iframe></details>
-  
-</font></div>
-
+# 杰哥不要
+> [好康的](https://www.bilibili.com/video/BV1uT4y1P7CX/?spm_id_from=333.788.recommend_more_video.-1)
